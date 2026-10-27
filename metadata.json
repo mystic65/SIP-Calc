@@ -1,0 +1,6 @@
+{
+  "name": "SmartVest SIP & SWP Calculator",
+  "description": "Comprehensive Indian financial calculator for Mutual Fund SIP, SWP, Step-up SIP, Lumpsum, and Goal Planning with interactive growth charts and year-by-year schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
